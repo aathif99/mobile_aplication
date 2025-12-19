@@ -51,4 +51,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Cancel" />
+
+    <TextView
+        android:id="@+id/aathif_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="THIS IS Aathif" />
 </LinearLayout>
